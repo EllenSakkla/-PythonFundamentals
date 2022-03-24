@@ -1,5 +1,5 @@
 # Python Repository 
-by Ellen Sakkoula.
+by Ellen Sakkoula
 
 Data Accelerator Course by Code Division, 2022.<br> 
 Programming for data training by FutureCoders.<br>
